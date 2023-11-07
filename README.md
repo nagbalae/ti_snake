@@ -15,6 +15,9 @@ Using the [TIGCC](http://tigcc.ticalc.org/) compiler, with the make script.
 
 ## Screenshots
 Example screenshot
+
 ![Example screenshot](https://github.com/nagbalae/ti_snake/assets/66674037/f9211ce2-f876-4b71-8584-921d5a7eb8ef)
+
 Game over screen
+
 ![Game over screen](https://github.com/nagbalae/ti_snake/assets/66674037/37b6b38c-cd12-4e6f-90a2-fbf84db3588a)
